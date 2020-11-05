@@ -1,6 +1,22 @@
 Apache County, Arizona UNOFFICIAL RESULTS
 General Election Election Summary Report
 November 03, 2020
+STATISTICS
+Election
+TOTAL Early VotingProvisional
+Day
+Election Day Precincts Reporting 44 of 44 44 0 0
+Precincts Complete 0 of 44 0 0 0
+Precincts Partially Reported 44 of 44 44 0 0
+Absentee/ Early Precincts Reporting 44 of 44 0 44 0
+Registered Voters - Total 51,906
+Ballots Cast - Total 21,310 10,901 10,409 0
+Ballots Cast - Blank 10 9 1 0
+Voter Turnout - Total 41.06%
+Election Summary - 11/04/2020    11:34 AM Page 1 of 12
+Report generated with Electionware Copyright © 2007-2019Apache County, Arizona UNOFFICIAL RESULTS
+General Election Election Summary Report
+November 03, 2020
 Presidential Electors
 Vote For 1
 Election
@@ -27,4 +43,31 @@ Overvotes 18 14 4 0
 Undervotes 342 213 129 0
 Contest Totals 21,310 10,901 10,409 0
 Election Summary - 11/04/2020    11:34 AM Page 2 of 12
+Report generated with Electionware Copyright © 2007-2019Apache County, Arizona UNOFFICIAL RESULTS
+General Election Election Summary Report
+November 03, 2020
+U. S. Representative in Congress Dist. 1
+Vote For 1
+Election
+TOTAL VOTE % Early VotingProvisional
+Day
+DEM O'HALLERAN, TOM 14,166 68.38% 6,499 7,667 0
+REP SHEDD, TIFFANY 6,516 31.45% 4,020 2,496 0
+Write-In Totals 36 0.17% 21 15 0
+Total Votes Cast 20,718 100.00% 10,540 10,178 0
+Overvotes 12 9 3 0
+Undervotes 580 352 228 0
+Contest Totals 21,310 10,901 10,409 0
+State Senator Dist. 7
+Vote For 1
+Election
+TOTAL VOTE % Early VotingProvisional
+Day
+DEM PESHLAKAI, JAMESCITA 16,133 96.48% 7,838 8,295 0
+Write-In Totals 589 3.52% 417 172 0
+Total Votes Cast 16,722 100.00% 8,255 8,467 0
+Overvotes 5 5 0 0
+Undervotes 4,549 2,626 1,923 0
+Contest Totals 21,276 10,886 10,390 0
+Election Summary - 11/04/2020    11:34 AM Page 3 of 12
 Report generated with Electionware Copyright © 2007-2019
