@@ -10,10 +10,10 @@ Precincts Complete 0 of 44 0 0 0
 Precincts Partially Reported 44 of 44 44 0 0
 Absentee/ Early Precincts Reporting 44 of 44 0 44 0
 Registered Voters - Total 51,906
-Ballots Cast - Total 34,494 10,901 23,593 0
+Ballots Cast - Total 34,825 10,901 23,924 0
 Ballots Cast - Blank 15 9 6 0
-Voter Turnout - Total 66.45%
-Election Summary - 11/08/2020    4:23 PM Page 1 of 12
+Voter Turnout - Total 67.09%
+Election Summary - 11/08/2020    5:43 PM Page 1 of 12
 Report generated with Electionware Copyright © 2007-2019Apache County, Arizona UNOFFICIAL RESULTS
 General Election Election Summary Report
 November 03, 2020
@@ -22,27 +22,27 @@ Vote For 1
 Election
 TOTAL VOTE % Early VotingProvisional
 Day
-DEM BIDEN / HARRIS 22,442 65.97% 6,539 15,903 0
-REP TRUMP / PENCE 11,067 32.53% 4,053 7,014 0
-LBT JORGENSEN / COHEN 416 1.22% 122 294 0
-Write-In Totals 91 0.27% 24 67 0
-Total Votes Cast 34,016 100.00% 10,738 23,278 0
-Overvotes 319 111 208 0
+DEM BIDEN / HARRIS 22,618 65.86% 6,539 16,079 0
+REP TRUMP / PENCE 11,210 32.64% 4,053 7,157 0
+LBT JORGENSEN / COHEN 424 1.23% 122 302 0
+Write-In Totals 92 0.27% 24 68 0
+Total Votes Cast 34,344 100.00% 10,738 23,606 0
+Overvotes 322 111 211 0
 Undervotes 159 52 107 0
-Contest Totals 34,494 10,901 23,593 0
+Contest Totals 34,825 10,901 23,924 0
 U.S. Senator
 Vote For 1
 Election
 TOTAL VOTE % Early VotingProvisional
 Day
-DEM KELLY, MARK 23,174 68.26% 6,739 16,435 0
-REP MCSALLY, MARTHA 10,690 31.49% 3,909 6,781 0
-Write-In Totals 87 0.26% 26 61 0
-Total Votes Cast 33,951 100.00% 10,674 23,277 0
+DEM KELLY, MARK 23,365 68.17% 6,739 16,626 0
+REP MCSALLY, MARTHA 10,822 31.57% 3,909 6,913 0
+Write-In Totals 88 0.26% 26 62 0
+Total Votes Cast 34,275 100.00% 10,674 23,601 0
 Overvotes 21 14 7 0
-Undervotes 522 213 309 0
-Contest Totals 34,494 10,901 23,593 0
-Election Summary - 11/08/2020    4:23 PM Page 2 of 12
+Undervotes 529 213 316 0
+Contest Totals 34,825 10,901 23,924 0
+Election Summary - 11/08/2020    5:43 PM Page 2 of 12
 Report generated with Electionware Copyright © 2007-2019Apache County, Arizona UNOFFICIAL RESULTS
 General Election Election Summary Report
 November 03, 2020
@@ -51,23 +51,23 @@ Vote For 1
 Election
 TOTAL VOTE % Early VotingProvisional
 Day
-DEM O'HALLERAN, TOM 22,743 67.79% 6,499 16,244 0
-REP SHEDD, TIFFANY 10,741 32.01% 4,020 6,721 0
-Write-In Totals 67 0.20% 21 46 0
-Total Votes Cast 33,551 100.00% 10,540 23,011 0
+DEM O'HALLERAN, TOM 22,931 67.70% 6,499 16,432 0
+REP SHEDD, TIFFANY 10,873 32.10% 4,020 6,853 0
+Write-In Totals 69 0.20% 21 48 0
+Total Votes Cast 33,873 100.00% 10,540 23,333 0
 Overvotes 13 9 4 0
-Undervotes 930 352 578 0
-Contest Totals 34,494 10,901 23,593 0
+Undervotes 939 352 587 0
+Contest Totals 34,825 10,901 23,924 0
 State Senator Dist. 7
 Vote For 1
 Election
 TOTAL VOTE % Early VotingProvisional
 Day
-DEM PESHLAKAI, JAMESCITA 25,888 96.32% 7,838 18,050 0
-Write-In Totals 989 3.68% 417 572 0
-Total Votes Cast 26,877 100.00% 8,255 18,622 0
+DEM PESHLAKAI, JAMESCITA 26,101 96.29% 7,838 18,263 0
+Write-In Totals 1,005 3.71% 417 588 0
+Total Votes Cast 27,106 100.00% 8,255 18,851 0
 Overvotes 6 5 1 0
-Undervotes 7,567 2,626 4,941 0
-Contest Totals 34,450 10,886 23,564 0
-Election Summary - 11/08/2020    4:23 PM Page 3 of 12
+Undervotes 7,668 2,626 5,042 0
+Contest Totals 34,780 10,886 23,894 0
+Election Summary - 11/08/2020    5:43 PM Page 3 of 12
 Report generated with Electionware Copyright © 2007-2019
